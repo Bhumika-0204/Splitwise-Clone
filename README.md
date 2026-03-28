@@ -196,6 +196,3 @@ User4 owes User1 ₹250
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
